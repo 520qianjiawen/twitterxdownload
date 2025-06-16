@@ -4,7 +4,7 @@
 </div>
 
 
-TwitterXDownload is a powerful Twitter video downloader (not only video). And it's also a marketing tool that helps you republish the content efficiently. You can translate threads with one click. 
+Twitter Download is a powerful Twitter video downloader (not only video). And it's also a marketing tool that helps you republish the content efficiently. You can translate threads with one click. 
 
 So, its perfect for content creators, marketers.
 

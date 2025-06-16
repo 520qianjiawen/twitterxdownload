@@ -43,15 +43,15 @@ export async function generateMetadata({ params }) {
         title: title,
         description: description,
         type: 'website',
-        url: 'https://twitterxdownload.com',
-        siteName: 'TwitterXDownload',
+        url: 'https://x.asg.li',
+        siteName: 'Twitter Download',
         images: [{
           url: image
         }]
       },
       twitter: {
         card: 'summary_large_image',
-        site: '@twitterxdownload',
+        site: '@twitterdownload',
         title: title,
         description: description,
         images: [image]

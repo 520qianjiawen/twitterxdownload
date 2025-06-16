@@ -16,11 +16,11 @@ export default function CurrentPage() {
                     <div className="space-y-8">
                         <section>
                             <p className="mb-4">
-                                At TwitterXDownload, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service to download videos and media content from Twitter (now X).
+                                At Twitter Download, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service to download videos and media content from Twitter (now X).
                             </p>
                             
                             <p className="mb-6">
-                                By using TwitterXDownload, you agree to the collection and use of information in accordance with this policy.
+                                By using Twitter Download, you agree to the collection and use of information in accordance with this policy.
                             </p>
                         </section>
 
