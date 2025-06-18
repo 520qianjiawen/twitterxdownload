@@ -40,7 +40,7 @@ export default function MyNavbar({ locale = 'en' }) {
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link color="foreground" href="https://github.com/" target="_blank">
+          <Link color="foreground" href="https://news.asg.li/" target="_blank">
           {t('Self Hosted')}
           </Link>
         </NavbarItem>
