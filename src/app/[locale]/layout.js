@@ -53,8 +53,6 @@ export default function RootLayout({ children, params }) {
     return (
       <html lang={locale} suppressHydrationWarning>
         <head>
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2719674832476577"
-     crossorigin="anonymous"></script>
             <GoogleAdsense />
             <GoogleAnalytics />
         </head>
